@@ -17,6 +17,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "components/HomeGame/HomeGame.js", "components/Leaderboard/Leaderboard.js"],
   "exclude": ["node_modules"]
 }

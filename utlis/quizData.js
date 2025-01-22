@@ -1,39 +1,39 @@
 export const quizData = [
     {
       id: 1,
-      titleimage:"/images/title-test.png",
+      titleimage:"/static/images/title-test.png",
       name: "100m",
       question: "What is the capital of France?",
       options: ["Paris", "London", "Berlin", "Rome"],
       correctAnswer: "Paris",
-      image: "/images/diabetes.jpg",
+      image: "/static/images/diabetes.jpg",
     },
     {
       id: 2,
       name: "100m",
-      titleimage:"/images/title-test.png",
+      titleimage:"/static/images/title-test.png",
       question: "Which planet is known as the Red Planet?",
       options: ["Earth", "Mars", "Jupiter", "Saturn"],
       correctAnswer: "Mars",
-      image: "/images/diabetes.jpg",
+      image: "/static/images/diabetes.jpg",
     },
     {
         id: 3,
         name: "100m",
-        titleimage:"/images/title-test.png",
+        titleimage:"/static/images/title-test.png",
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 4,
         name: "100m",
-        titleimage:"/images/title-test.png",
+        titleimage:"/static/images/title-test.png",
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 5,
@@ -41,7 +41,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 6,
@@ -49,7 +49,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 7,
@@ -57,7 +57,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 8,
@@ -65,7 +65,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 9,
@@ -73,7 +73,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 10,
@@ -81,7 +81,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 11,
@@ -89,7 +89,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 12,
@@ -97,7 +97,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 13,
@@ -105,7 +105,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 14,
@@ -113,7 +113,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 15,
@@ -121,7 +121,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 16,
@@ -129,7 +129,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 17,
@@ -137,7 +137,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 18,
@@ -145,7 +145,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 19,
@@ -153,7 +153,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 20,
@@ -161,7 +161,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 21,
@@ -169,7 +169,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 22,
@@ -177,7 +177,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 23,
@@ -185,7 +185,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 24,
@@ -193,7 +193,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 25,
@@ -201,7 +201,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 26,
@@ -209,7 +209,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 27,
@@ -217,7 +217,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 28,
@@ -225,7 +225,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 29,
@@ -233,7 +233,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 30,
@@ -241,7 +241,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 31,
@@ -249,7 +249,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 32,
@@ -257,7 +257,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 33,
@@ -265,7 +265,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 34,
@@ -273,7 +273,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 35,
@@ -281,7 +281,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 36,
@@ -289,7 +289,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 37,
@@ -297,7 +297,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 38,
@@ -305,7 +305,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 39,
@@ -313,7 +313,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 40,
@@ -321,7 +321,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 41,
@@ -329,7 +329,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 42,
@@ -337,7 +337,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 43,
@@ -345,7 +345,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 44,
@@ -353,7 +353,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 45,
@@ -361,7 +361,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 46,
@@ -369,7 +369,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 47,
@@ -377,7 +377,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 48,
@@ -385,7 +385,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 49,
@@ -393,7 +393,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 50,
@@ -401,7 +401,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 51,
@@ -409,7 +409,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 53,
@@ -417,7 +417,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 54,
@@ -425,7 +425,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
       {
         id: 55,
@@ -433,7 +433,7 @@ export const quizData = [
         question: "Which planet is known as the Red Planet?",
         options: ["Earth", "Mars", "Jupiter", "Saturn"],
         correctAnswer: "Mars",
-        image: "/images/diabetes.jpg",
+        image: "/static/images/diabetes.jpg",
       },
     // Add more questions here
   ];

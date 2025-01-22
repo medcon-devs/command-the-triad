@@ -22,12 +22,12 @@ const QuizModal = ({ isOpen, onClose, question }) => {
   };
 
   const playErrorSound = () => {
-    const audio = new Audio("/images/fail-234710.mp3"); // Replace with the path to your sound file
+    const audio = new Audio("/static/images/fail-234710.mp3"); // Replace with the path to your sound file
     audio.play();
   };
 
   const playSuccessSound = () => {
-    const audio = new Audio("/images/tada-234709.mp3"); // Replace with the path to your sound file
+    const audio = new Audio("/static/images/tada-234709.mp3"); // Replace with the path to your sound file
     audio.play();
   };
   if (!question) return null;
